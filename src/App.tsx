@@ -24,7 +24,8 @@ export default function App() {
   const [error, setError] = useState<string>('');
 
 
-  const API_BASE_URL = 'http://localhost:8080/api/energy';
+  // const API_BASE_URL = 'http://localhost:8080/api/energy';
+  const API_BASE_URL = 'https://test-task-spyrosoft.onrender.com';
 
   const COLORS: Record<string, string> = {
     biomass: '#04f05a', 
