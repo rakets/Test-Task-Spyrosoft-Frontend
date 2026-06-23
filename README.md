@@ -44,7 +44,7 @@
     ```bash
     npm run dev
     ```
-  <p> Server will be available at `http://localhost:5173`.</p>
+  <p> Server will be available at http://localhost:5173 .</p>
   <p> For the application to fully work locally, you must also run the Backend project on port 8080.</p>
     
 ---
