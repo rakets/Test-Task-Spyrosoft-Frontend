@@ -21,6 +21,7 @@
 
 * **React 18**
 * **TypeScript**
+* **Vite**
 
 ---
 
